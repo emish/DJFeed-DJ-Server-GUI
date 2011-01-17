@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>10.1.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/emish/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>6B13C61A607799E7</string>
+	<key>Tracks</key>
+	<dict>
+		<key>3745</key>
+		<dict>
+			<key>Track ID</key><integer>3745</integer>
+			<key>Name</key><string>Crimewave (Crystal Castles VS Health)</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Album</key><string>Crystal Castles</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6386518</integer>
+			<key>Total Time</key><integer>258507</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2010-03-13T23:03:19Z</date>
+			<key>Date Added</key><date>2010-03-13T23:01:18Z</date>
+			<key>Bit Rate</key><integer>184</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3377505350</integer>
+			<key>Play Date UTC</key><date>2011-01-10T16:55:50Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4AC449677BADCF6B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/emish/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/Crystal%20Castles/03%20Crimewave%20(Crystal%20Castles%20VS%20Health).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4529</key>
+		<dict>
+			<key>Track ID</key><integer>4529</integer>
+			<key>Name</key><string>Shower Melody</string>
+			<key>Artist</key><string>Hudson Mohawke</string>
+			<key>Album Artist</key><string>Hudson Mohawke</string>
+			<key>Composer</key><string>Hudson Mohawke</string>
+			<key>Album</key><string>Butter</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1952777</integer>
+			<key>Total Time</key><integer>81266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-07-12T05:09:32Z</date>
+			<key>Date Added</key><date>2010-07-07T14:07:40Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>0</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3366032256</integer>
+			<key>Play Date UTC</key><date>2010-08-30T21:57:36Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2924</integer>
+			<key>Persistent ID</key><string>1F02667EC3D5ED94</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/emish/Music/iTunes/iTunes%20Media/Music/Hudson%20Mohawke/Butter/01%20Shower%20Melody.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4559</key>
+		<dict>
+			<key>Track ID</key><integer>4559</integer>
+			<key>Name</key><string>Star Crackout</string>
+			<key>Artist</key><string>Hudson Mohawke</string>
+			<key>Album Artist</key><string>Hudson Mohawke</string>
+			<key>Composer</key><string>Hudson Mohawke</string>
+			<key>Album</key><string>Butter</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7084272</integer>
+			<key>Total Time</key><integer>295079</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-07-12T05:09:33Z</date>
+			<key>Date Added</key><date>2010-07-07T14:07:40Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>0</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3376899650</integer>
+			<key>Play Date UTC</key><date>2011-01-03T16:40:50Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2933</integer>
+			<key>Persistent ID</key><string>82A80E4481BC8452</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/emish/Music/iTunes/iTunes%20Media/Music/Hudson%20Mohawke/Butter/16%20Star%20Crackout.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5103</key>
+		<dict>
+			<key>Track ID</key><integer>5103</integer>
+			<key>Name</key><string>Lebanese Blonde</string>
+			<key>Artist</key><string>Thievery Corporation</string>
+			<key>Composer</key><string>Eric Hilton/Rob Garza</string>
+			<key>Album</key><string>The Mirror Conspiracy</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4665729</integer>
+			<key>Total Time</key><integer>288878</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2010-07-27T08:03:26Z</date>
+			<key>Date Added</key><date>2010-07-27T08:03:34Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3364903877</integer>
+			<key>Play Date UTC</key><date>2010-08-17T20:31:17Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1856</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mirror Conspiracy</string>
+			<key>Persistent ID</key><string>74B1DE6E87F7B9EF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/emish/Music/iTunes/iTunes%20Media/Music/Thievery%20Corporation/The%20Mirror%20Conspiracy/04%20Lebanese%20Blonde.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6633</key>
+		<dict>
+			<key>Track ID</key><integer>6633</integer>
+			<key>Name</key><string>Black  White (Reconstruction Mix)</string>
+			<key>Artist</key><string>Underthis</string>
+			<key>Album</key><string>Solaris International Presents: Electronic Architecture</string>
+			<key>Genre</key><string>Trance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11588105</integer>
+			<key>Total Time</key><integer>289593</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-08-25T17:33:56Z</date>
+			<key>Date Added</key><date>2010-08-25T23:24:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EMM Team</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3371031320</integer>
+			<key>Play Date UTC</key><date>2010-10-27T18:35:20Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>3C42A6D709C5A9F0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/emish/Music/iTunes/iTunes%20Media/Music/Compilations/Solaris%20International%20Presents_%20Electronic%20Architecture/05%20Black%20%20White%20(Reconstruction%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7377</key>
+		<dict>
+			<key>Track ID</key><integer>7377</integer>
+			<key>Name</key><string>Drugs</string>
+			<key>Artist</key><string>Ratatat</string>
+			<key>Album Artist</key><string>Ratatat</string>
+			<key>Composer</key><string>Evan Mast/Mike Stroud</string>
+			<key>Album</key><string>LP4</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7694758</integer>
+			<key>Total Time</key><integer>294687</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-10-03T07:24:36Z</date>
+			<key>Date Added</key><date>2010-10-03T07:24:46Z</date>
+			<key>Bit Rate</key><integer>203</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>42003E38C3AF0F81</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/emish/Music/iTunes/iTunes%20Media/Music/Ratatat/LP4/02%20Drugs.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7413</key>
+		<dict>
+			<key>Track ID</key><integer>7413</integer>
+			<key>Name</key><string>Irufushi</string>
+			<key>Artist</key><string>Super8 &#38; Tab</string>
+			<key>Album</key><string>Empire</string>
+			<key>Genre</key><string>Trance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15639145</integer>
+			<key>Total Time</key><integer>351033</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-10-03T07:28:53Z</date>
+			<key>Date Added</key><date>2010-10-03T07:28:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3369159513</integer>
+			<key>Play Date UTC</key><date>2010-10-06T02:38:33Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7AFEDB2314E53ED1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/emish/Music/iTunes/iTunes%20Media/Music/Super8%20&#38;%20Tab/Empire/09%20Irufushi.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7425</key>
+		<dict>
+			<key>Track ID</key><integer>7425</integer>
+			<key>Name</key><string>Gone Gone Gone</string>
+			<key>Artist</key><string>The New Deal</string>
+			<key>Album</key><string>Gone Gone Gone</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4345302</integer>
+			<key>Total Time</key><integer>271464</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2010-10-03T07:29:16Z</date>
+			<key>Date Added</key><date>2010-10-03T07:29:26Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3369227841</integer>
+			<key>Play Date UTC</key><date>2010-10-06T21:37:21Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Artist</key><string>New Deal, The</string>
+			<key>Persistent ID</key><string>BCB7E33B35C3597A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/emish/Music/iTunes/iTunes%20Media/Music/The%20New%20Deal/Gone%20Gone%20Gone/03%20Gone%20Gone%20Gone.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7615</key>
+		<dict>
+			<key>Track ID</key><integer>7615</integer>
+			<key>Name</key><string>The Bad Penny (instrumental)</string>
+			<key>Artist</key><string>RJD2</string>
+			<key>Album</key><string>The Third Hand (Instrumentals)</string>
+			<key>Genre</key><string>Instrumental Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10092459</integer>
+			<key>Total Time</key><integer>252055</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2009-11-13T15:34:54Z</date>
+			<key>Date Added</key><date>2010-10-09T01:39:37Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3376911786</integer>
+			<key>Play Date UTC</key><date>2011-01-03T20:03:06Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Third Hand (Instrumentals)</string>
+			<key>Sort Name</key><string>Bad Penny (instrumental)</string>
+			<key>Persistent ID</key><string>B10152065615A5FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/emish/Music/iTunes/iTunes%20Media/Music/RJD2/The%20Third%20Hand%20(Instrumentals)/09%20The%20Bad%20Penny%20(instrumental).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8057</key>
+		<dict>
+			<key>Track ID</key><integer>8057</integer>
+			<key>Name</key><string>Another World</string>
+			<key>Artist</key><string>The Chemical Brothers</string>
+			<key>Album Artist</key><string>The Chemical Brothers</string>
+			<key>Composer</key><string>Ed Simons/Tom Rowlands</string>
+			<key>Album</key><string>Further</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13630627</integer>
+			<key>Total Time</key><integer>340767</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Added</key><date>2010-12-25T18:46:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3376908588</integer>
+			<key>Play Date UTC</key><date>2011-01-03T19:09:48Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Chemical Brothers</string>
+			<key>Sort Artist</key><string>Chemical Brothers</string>
+			<key>Persistent ID</key><string>009A6E693AEFCFFC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/emish/Music/iTunes/iTunes%20Media/Music/The%20Chemical%20Brothers/Further/03%20Another%20World.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8065</key>
+		<dict>
+			<key>Track ID</key><integer>8065</integer>
+			<key>Name</key><string>Swoon</string>
+			<key>Artist</key><string>The Chemical Brothers</string>
+			<key>Album Artist</key><string>The Chemical Brothers</string>
+			<key>Composer</key><string>Ed Simons/Tom Rowlands</string>
+			<key>Album</key><string>Further</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14601539</integer>
+			<key>Total Time</key><integer>364747</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Added</key><date>2010-12-25T18:46:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3376908247</integer>
+			<key>Play Date UTC</key><date>2011-01-03T19:04:07Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Chemical Brothers</string>
+			<key>Sort Artist</key><string>Chemical Brothers</string>
+			<key>Persistent ID</key><string>1B0C7B30C3640C6F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/emish/Music/iTunes/iTunes%20Media/Music/The%20Chemical%20Brothers/Further/06%20Swoon.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8117</key>
+		<dict>
+			<key>Track ID</key><integer>8117</integer>
+			<key>Name</key><string>So High (Original Mix)</string>
+			<key>Artist</key><string>Starchaser Feat Lo-Fi Sugar</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7383980</integer>
+			<key>Total Time</key><integer>460852</integer>
+			<key>Date Modified</key><date>2010-11-15T06:09:06Z</date>
+			<key>Date Added</key><date>2010-12-29T22:22:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3376907882</integer>
+			<key>Play Date UTC</key><date>2011-01-03T18:58:02Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Persistent ID</key><string>80FFAC8E20CD94F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/emish/Music/iTunes/iTunes%20Media/Music/Starchaser%20Feat%20Lo-Fi%20Sugar/Unknown%20Album/So%20High%20(Original%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8133</key>
+		<dict>
+			<key>Track ID</key><integer>8133</integer>
+			<key>Name</key><string>Capital (Original Mix)</string>
+			<key>Artist</key><string>Christoph Andersson</string>
+			<key>Album</key><string>Vacayvitamins.com</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4221786</integer>
+			<key>Total Time</key><integer>209475</integer>
+			<key>Date Modified</key><date>2011-01-01T19:20:05Z</date>
+			<key>Date Added</key><date>2011-01-02T03:20:16Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Vacay Vitamins</string>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3377587669</integer>
+			<key>Play Date UTC</key><date>2011-01-11T15:47:49Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3045</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5EE7AD53FE5FB572</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/emish/Music/iTunes/iTunes%20Media/Music/Christoph%20Andersson/Vacayvitamins.com/Capital%20(Original%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8135</key>
+		<dict>
+			<key>Track ID</key><integer>8135</integer>
+			<key>Name</key><string>Tuxedo (Original Mix)</string>
+			<key>Artist</key><string>Christoph Andersson</string>
+			<key>Composer</key><string>Christoph Andersson</string>
+			<key>Album</key><string>gottadancedirty.com</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4373559</integer>
+			<key>Total Time</key><integer>216058</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-01-02T09:27:55Z</date>
+			<key>Date Added</key><date>2011-01-02T17:28:04Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>gottadancedirty.com (jonahberry)</string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3377587885</integer>
+			<key>Play Date UTC</key><date>2011-01-11T15:51:25Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>3882</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9E0247ADCD36F472</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/emish/Music/iTunes/iTunes%20Media/Music/Christoph%20Andersson/gottadancedirty.com/Tuxedo%20(Original%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8147</key>
+		<dict>
+			<key>Track ID</key><integer>8147</integer>
+			<key>Name</key><string>Empathy</string>
+			<key>Artist</key><string>Crystal Castles</string>
+			<key>Composer</key><string>Ethan Kath, Alice Glass</string>
+			<key>Album</key><string>Crystal Castles ( II )</string>
+			<key>Genre</key><string>Electronica/Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10048956</integer>
+			<key>Total Time</key><integer>251167</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2011-01-02T09:37:36Z</date>
+			<key>Date Added</key><date>2011-01-02T17:51:28Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3377862940</integer>
+			<key>Play Date UTC</key><date>2011-01-14T20:15:40Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>5656</integer>
+			<key>Persistent ID</key><string>72CACD160CC2CA94</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/emish/Music/iTunes/iTunes%20Media/Music/Crystal%20Castles/Crystal%20Castles%20(%20II%20)/06%20Empathy.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8165</key>
+		<dict>
+			<key>Track ID</key><integer>8165</integer>
+			<key>Name</key><string>Lisztomania</string>
+			<key>Artist</key><string>Phoenix</string>
+			<key>Album</key><string>Wolfgang Amadeus Phoenix</string>
+			<key>Genre</key><string>Pop/Rock/Electro</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10068921</integer>
+			<key>Total Time</key><integer>248502</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-01-02T11:38:18Z</date>
+			<key>Date Added</key><date>2011-01-02T21:35:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Promo Only</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3377588133</integer>
+			<key>Play Date UTC</key><date>2011-01-11T15:55:33Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>4044</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E0E0D5EA5FBFACEC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/emish/Music/iTunes/iTunes%20Media/Music/Phoenix/Wolfgang%20Amadeus%20Phoenix/01%20Lisztomania.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8167</key>
+		<dict>
+			<key>Track ID</key><integer>8167</integer>
+			<key>Name</key><string>1901</string>
+			<key>Artist</key><string>Phoenix</string>
+			<key>Album</key><string>Wolfgang Amadeus Phoenix</string>
+			<key>Genre</key><string>Pop/Rock/Electro</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8062710</integer>
+			<key>Total Time</key><integer>198347</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-01-02T11:37:57Z</date>
+			<key>Date Added</key><date>2011-01-02T21:35:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Promo Only</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3377588331</integer>
+			<key>Play Date UTC</key><date>2011-01-11T15:58:51Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>6475</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>846D876C5B2BBEC6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/emish/Music/iTunes/iTunes%20Media/Music/Phoenix/Wolfgang%20Amadeus%20Phoenix/02%201901.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>CD7: Capital</string>
+			<key>Playlist ID</key><integer>18111</integer>
+			<key>Playlist Persistent ID</key><string>B51F56F157C652CE</string>
+			<key>Parent Persistent ID</key><string>ADA33813A9C617DA</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>8133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8135</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3745</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8117</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8065</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8057</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7615</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7425</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7377</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5103</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7413</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6633</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4529</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4559</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

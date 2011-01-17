@@ -1,0 +1,9 @@
+set tab to "\t"
+tell application "iTunes"
+     try
+	set r to current track
+	set myvalue to (name of r & tab & artist of r & tab & album of r)
+onerror
+	(* do nothing *)
+end try
+end tell

@@ -1,0 +1,25 @@
+
+
+class Song:
+    
+    def __init__(self, title, artist, album):
+        self.title = title
+        self.artist = artist
+<<<<<<< .mine
+        self.votes = 0
+        self.thumbsUp = 0
+        self.thumbsDown = 0
+        
+    def upVote(self):
+        self.votes += 1
+        
+    def upThumbsUp(self):
+        self.thumbsUp += 1
+        
+    def upThumbsDown(self):
+        self.thumbsDown += 1
+        
+
+=======
+        self.album = album
+>>>>>>> .r11
